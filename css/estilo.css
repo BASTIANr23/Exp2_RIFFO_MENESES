@@ -1,0 +1,89 @@
+.fondo {
+  background-color: green;
+  height: 210px;
+}
+
+h4 {
+  color: white;
+  height: 100px;
+  text-align: center;
+}
+
+h6 {
+  background-color: green;
+}
+
+.caja {
+  width: 300px;
+  border: 15px solid red;
+  padding: 20px;
+  margin: 20px;
+  height: 50;
+}
+
+.delimitador {
+  margin: auto;
+}
+
+.contenedor {
+  margin-top: 30px;
+  height: 0px;
+  width: 100%;
+  padding-top: 56.25%;
+  position: relative;
+}
+
+iframe {
+  position: relative;
+  height: 800%;
+  width: 50%;
+  top: 0px;
+  left: 0px;
+}
+
+.btn:hover {
+  background-color: gray;
+  transition: 0.7s;
+}
+
+.nav-link:hover {
+  background-color: yellow;
+  transition: 1s;
+}
+
+.navbar-brand {
+  background-color: white;
+}
+
+/* contenedor */
+#pyke {
+  width: 100%;
+}
+
+/* form */
+form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.error-control {
+  border: 1px solid red;
+}
+
+label.error {
+  color: red;
+  width: 300px;
+  font-size: 0.8em;
+  margin-top: -5px;
+  margin-bottom: 10px;
+}
+
+
+.bg-warning {
+  background-color: red !important;
+}
+
+.py-3 {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
